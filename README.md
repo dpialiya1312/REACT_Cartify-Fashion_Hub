@@ -80,7 +80,9 @@ The main objective of **Cartify Fashion Hub** is to provide a user-friendly and 
 ## 👩‍💻 Team
 
 **Janki Rathod**
+<br/>
 **Dhruti Pipaliya**
+<br/>
 **Khushi Vala**
 
 Frontend Developer
