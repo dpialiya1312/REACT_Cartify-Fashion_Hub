@@ -50,25 +50,13 @@ Cartify-Fashion-Hub/
 
 ## ⚙️ Installation
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/dpialiya1312/REACT_Cartify-Fashion_Hub
-```
-
-2. Navigate to the project folder
-
-```bash
-cd cartify-fashion-hub
-```
-
-3. Install dependencies
+1. Install dependencies
 
 ```bash
 npm install
 ```
 
-4. Start the development server
+2. Start the development server
 
 ```bash
 npm start
